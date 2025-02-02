@@ -9,7 +9,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computer Science](http://www.giu-uni.de/en/academic-specializations/informatics/#m1_2) at [German International University](http://www.giu-uni.de/).
+- :school: I am a `Senior` at [Faculty of Computer Science](http://www.giu-uni.de/en/academic-specializations/informatics/#m1_2) at [German International University](http://www.giu-uni.de/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
